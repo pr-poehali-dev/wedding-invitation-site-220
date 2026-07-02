@@ -106,8 +106,8 @@ export default function Index() {
               icon: 'Wine',
               title: 'Банкет',
               time: '17:00',
-              place: 'Ресторан «Веранда»',
-              addr: 'на территории усадьбы',
+              place: 'Ресторан «Модерн»',
+              addr: 'ул. Пушкина, д. 5',
             },
           ].map((c) => (
             <div
