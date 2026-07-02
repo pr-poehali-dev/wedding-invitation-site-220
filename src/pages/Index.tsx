@@ -99,8 +99,8 @@ export default function Index() {
               icon: 'Church',
               title: 'Церемония',
               time: '15:00',
-              place: 'Усадьба «Белые пруды»',
-              addr: 'Московская обл., с. Ильинское, 4',
+              place: 'Центральный ЗАГС',
+              addr: 'г. Ярославль',
             },
             {
               icon: 'Wine',
