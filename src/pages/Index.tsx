@@ -193,8 +193,8 @@ export default function Index() {
 
         <div className="mt-14 grid gap-8 sm:grid-cols-2">
           {[
-            { name: 'Никита', role: 'Жених', phone: '+7 900 123-45-67' },
-            { name: 'Наташа', role: 'Невеста', phone: '+7 900 765-43-21' },
+            { name: 'Никита', role: 'Жених', phone: '+7 999 785-75-06' },
+            { name: 'Наташа', role: 'Невеста', phone: '+7 980 743-34-65' },
           ].map((p) => (
             <div key={p.name} className="rounded-lg border border-border bg-card p-8 text-center">
               <div className="mx-auto flex h-12 w-12 items-center justify-center rounded-full bg-secondary">
