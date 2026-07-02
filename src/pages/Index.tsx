@@ -63,7 +63,7 @@ export default function Index() {
         <div className="absolute inset-0 bg-gradient-to-b from-background/40 via-background/20 to-background" />
         <div className="relative z-10 px-6 text-center">
           <p className="animate-fade-in text-xs uppercase tracking-luxe text-muted-foreground">
-            Мы приглашаем вас
+            Мы приглашаем вас на нашу Свадьбу
           </p>
           <h1 className="mt-8 animate-fade-up font-display text-6xl font-light leading-none sm:text-8xl">
             Никита
