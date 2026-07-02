@@ -66,9 +66,9 @@ export default function Index() {
             Мы приглашаем вас
           </p>
           <h1 className="mt-8 animate-fade-up font-display text-6xl font-light leading-none sm:text-8xl">
-            Александр
+            Никита
             <span className="my-2 block text-3xl text-accent sm:text-4xl">&</span>
-            Мария
+            Наташа
           </h1>
           <div className="mt-10 animate-fade-up" style={{ animationDelay: '0.2s', opacity: 0 }}>
             <Divider />
@@ -217,7 +217,7 @@ export default function Index() {
       {/* Footer */}
       <footer className="border-t border-border py-14 text-center">
         <p className="font-display text-3xl font-light">
-          Александр <span className="text-accent">&</span> Мария
+          Никита <span className="text-accent">&</span> Наташа
         </p>
         <p className="mt-3 text-xs uppercase tracking-luxe text-muted-foreground">
           12 · 09 · 2026
