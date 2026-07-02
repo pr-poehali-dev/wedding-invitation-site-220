@@ -37,7 +37,7 @@ export default function Index() {
             onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
             className="font-display text-xl tracking-wide"
           >
-            А <span className="text-accent">&</span> М
+            Н <span className="text-accent">&</span> Н
           </button>
           <div className="flex gap-6 sm:gap-8">
             {nav.map((n) => (
