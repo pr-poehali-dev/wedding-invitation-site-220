@@ -73,7 +73,7 @@ export default function Index() {
           <div className="mt-10 animate-fade-up" style={{ animationDelay: '0.2s', opacity: 0 }}>
             <Divider />
             <p className="mt-2 font-display text-2xl italic text-muted-foreground">
-              12 сентября 2026
+              18 сентября 2026
             </p>
           </div>
           <button
@@ -220,7 +220,7 @@ export default function Index() {
           Никита <span className="text-accent">&</span> Наташа
         </p>
         <p className="mt-3 text-xs uppercase tracking-luxe text-muted-foreground">
-          12 · 09 · 2026
+          18 · 09 · 2026
         </p>
       </footer>
     </div>
