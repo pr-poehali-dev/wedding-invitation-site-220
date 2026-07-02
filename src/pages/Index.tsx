@@ -100,7 +100,7 @@ export default function Index() {
               title: 'Церемония',
               time: '15:00',
               place: 'Центральный ЗАГС',
-              addr: 'г. Ярославль',
+              addr: 'ул. Свердлова, д. 5',
             },
             {
               icon: 'Wine',
